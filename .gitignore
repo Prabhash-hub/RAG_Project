@@ -217,3 +217,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+vectorstore/    
+
+vectorstore/chroma_db
+
+data/
+data/raw/
